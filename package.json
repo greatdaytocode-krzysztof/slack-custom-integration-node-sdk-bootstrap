@@ -1,0 +1,13 @@
+{
+  "name": "slack-custom-integration-bootstrap",
+  "version": "1.0.0",
+  "description": "Start with this code to build Slack bots with slack-node-sdk",
+  "scripts": {
+    "start": "heroku local"
+  },
+  "author": "Krzysztof Miaskowski",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.8.1"
+  }
+}
