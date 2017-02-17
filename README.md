@@ -32,7 +32,7 @@ but it fixes its oversights (the missing RTM_EVENTS.MESSAGE import).
 
 Since this code was generated as part of my preparation to an article
 you will find more information on [GreatDayToCode blog](http://greatdaytocode.com)
-and by following me on Twitter @greatdaytocode
+and by following me on Twitter [@greatdaytocode](https://twitter.com/greatdaytocode)
 
 I will supplement this readme with more details when the article is ready.
 
